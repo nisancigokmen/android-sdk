@@ -34,7 +34,6 @@ Run the sample code in [app-remote-sample](app-remote-sample) and [auth-sample](
 Add the libraries as module dependencies to your project.
 
 ## License
-
 ```
 Copyright © 2018 Spotify AB.
 
