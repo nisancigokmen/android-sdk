@@ -33,6 +33,7 @@ Walk through the quick start documentation on [Spotify for Developers](https://d
 Run the sample code in [app-remote-sample](app-remote-sample) and [auth-sample](auth-sample) modules.<br/>
 Add the libraries as module dependencies to your project.
 
+
 ## License
 ```
 Copyright © 2018 Spotify AB.
