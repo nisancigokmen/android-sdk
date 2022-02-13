@@ -1,7 +1,6 @@
 
 # Spotify Android SDK
 
-
 The `Spotify Android SDK` allows your application to interact with the Spotify app service.
 The capabilities of this SDK includes authentication and getting metadata for the currently playing track and context, issuing playback commands and initiating playback of tracks, albums or playlists.
 
@@ -33,7 +32,6 @@ This library provides a way to obtain OAuth access tokens that can subsequently 
 Walk through the quick start documentation on [Spotify for Developers](https://developer.spotify.com/documentation/android/quick-start).<br/>
 Run the sample code in [app-remote-sample](app-remote-sample) and [auth-sample](auth-sample) modules.<br/>
 Add the libraries as module dependencies to your project.
-
 
 ## License
 ```
