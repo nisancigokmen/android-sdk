@@ -1,6 +1,7 @@
 
 # Spotify Android SDK
 
+
 The `Spotify Android SDK` allows your application to interact with the Spotify app service.
 The capabilities of this SDK includes authentication and getting metadata for the currently playing track and context, issuing playback commands and initiating playback of tracks, albums or playlists.
 
